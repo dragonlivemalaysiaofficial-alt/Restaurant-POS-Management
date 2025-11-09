@@ -1,0 +1,7 @@
+{
+  "name": "Restaurant POS & Management",
+  "description": "A comprehensive point-of-sale and management system for restaurants. Handle orders, billing, menu updates, and track monthly sales with an intuitive interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
